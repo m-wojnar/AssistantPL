@@ -1,0 +1,53 @@
+jaka jest pogoda|assistant/weather|now
+jaka będzie pogoda|assistant/weather|now
+jaka jest dzisiaj pogoda|assistant/weather|now
+jaka będzie dzisiaj pogoda|assistant/weather|now
+czy będzie dzisiaj padać|assistant/weather|now
+czy będę potrzebować parasola|assistant/weather|now
+czy będzie dzisiaj słonecznie|assistant/weather|now
+czy będzie dzisiaj deszczowo|assistant/weather|now
+jaka jest temperatura|assistant/weather|now
+jaka będzie dzisiaj temperatura|assistant/weather|now
+jaka będzie temperatura|assistant/weather|now
+jak się nazywasz|assistant/tts|assistant/bot#jestem asystentem głosowym
+kim jesteś|assistant/tts|assistant/bot#jestem twoim asystentem głosowym, będę odpowiadać na twoje pytania
+skąd jesteś|assistant/tts|assistant/bot#żyję obecnie na twoim urządzeniu
+gdzie mieszkasz|assistant/tts|assistant/bot#żyję obecnie na twoim urządzeniu
+cześć|assistant/tts|assistant/bot#cześć, miłego dnia
+dzień dobry|assistant/tts|assistant/bot#dzień dobry, miło cię słyszeć
+jak się czujesz|assistant/tts|assistant/bot#u mnie wszystko w porządku, czekam na twoje polecenia
+co lubisz|assistant/tts|assistant/bot#lubię odpowiadać na twoje pytania
+co robisz|assistant/tts|assistant/bot#jestem tutaj, aby odpowiadać na twoje pytania
+która jest godzina|assistant/time|now
+jaka jest godzina|assistant/time|now
+jaki mamy czas|assistant/time|now
+która jest teraz|assistant/time|now
+podaj godzinę|assistant/time|now
+jaki jest dzisiaj dzień|assistant/time|date
+jaka jest data|assistant/time|date
+który dzisiaj jest|assistant/time|date
+podaj datę|assistant/time|date
+opowiedz mi żart|assistant/jokes|random
+opowiedz mi suchara|assistant/jokes|random
+powiedz coś śmiesznego|assistant/jokes|random
+znasz jakieś żarty|assistant/jokes|random
+zagraj coś|assistant/music|random
+wybierz jakąś piosenkę|assistant/music|random
+odtwórz muzykę|assistant/music|random
+odtwórz piosenkę|assistant/music|random
+znajdź w internecie|assistant/web|search_wiki
+wyszukaj w internecie|assistant/web|search_wiki
+poszukaj w internecie|assistant/web|search_wiki
+poszukaj czegoś|assistant/web|search_wiki
+wyszukaj coś|assistant/web|search_wiki
+znajdź na wikipedii|assistant/web|search_wiki
+wyszukaj na wikipedii|assistant/web|search_wiki
+poszukaj na wikipedii|assistant/web|search_wiki
+zapisz notatkę|assistant/notes|add_note
+dodaj notatkę|assistant/notes|add_note
+zapisz coś|assistant/notes|add_note
+odczytaj notatki|assistant/notes|list_notes
+przypomnij mi jakie mam notatki|assistant/notes|list_notes
+usuń notatkę|assistant/notes|remove_note
+skasuj notatkę|assistant/notes|remove_note
+wymaż notatkę|assistant/notes|remove_note
